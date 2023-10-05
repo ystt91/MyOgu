@@ -49,6 +49,7 @@ public class KakaoController {
 			sb.append("grant_type=authorization_code");
 			sb.append("&client_id=64e389d2d688211ab0016951d3cc766d");
 			sb.append("&redirect_uri=https://nohsam.shop/kakaologin.do");
+			//sb.append("&redirect_uri=https://localhost:8080/kakaologin.do");
 			sb.append("&code=" + code);
 			bw.write(sb.toString());
 			bw.flush();

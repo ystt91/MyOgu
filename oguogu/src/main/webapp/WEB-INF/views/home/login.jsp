@@ -124,6 +124,8 @@ footer{
 			<div class="social-login-img">
 				<c:set var ="REST_API_KEY" value="64e389d2d688211ab0016951d3cc766d" />
 				<c:set var ="REDIRECT_URI" value="https://nohsam.shop/kakaologin.do" />
+				<%-- <c:set var ="REDIRECT_URI" value="https://localhost:8080/kakaologin.do" /> --%>
+				<%-- <c:set var ="REDIRECT_URI" value="https://localhost:8090/kakaologin.do" /> --%>
 				<a href="https://kauth.kakao.com/oauth/authorize?response_type=code
 							&client_id=${REST_API_KEY}&redirect_uri=${REDIRECT_URI}">
 					<img src="resources/images/login/kakao_login.png">
