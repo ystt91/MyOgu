@@ -23,16 +23,18 @@
   <li>게시물 상세보기 및 좋아요 기능 구현</li>
   <li>마이 페이지 구성</li>
 </ul>
+
 <h2>담당 기능 Sequence</h2>
+
 <h4> - 회원가입</h4>
 <p>
-  <img src="https://github.com/ystt91/MyOgu/assets/125029629/901947d7-e2e7-412e-93f3-f72082e40a7e">
+  <img width="576" alt="회원가입" src="https://github.com/ystt91/MyOgu/assets/125029629/2152288e-e225-418b-8d6d-cd60979a8899">
 </p>
 <h4> - 로그인</h4>
 <p>
-  <img src="https://github.com/ystt91/MyOgu/assets/125029629/901947d7-e2e7-412e-93f3-f72082e40a7e">
+  <img width="576" alt="로그인" src="https://github.com/ystt91/MyOgu/assets/125029629/1f1ff019-5291-4c69-ba37-53a73020f25f">
 </p>
 <h4> - 게시물 상세보기 및 좋아요</h4>
 <p>
-  <img src="https://github.com/ystt91/MyOgu/assets/125029629/901947d7-e2e7-412e-93f3-f72082e40a7e">
+  <img width="576" alt="좋아요" src="https://github.com/ystt91/MyOgu/assets/125029629/60a47171-34b0-4423-871a-4b643c170d06">
 </p>
