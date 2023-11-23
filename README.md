@@ -3,7 +3,7 @@
 <div>AWS의 RDS를 활용하여 데이터 베이스를 구축하고 EC2 서비스를 활용하여 배포 했습니다.</div>
 <p></p>
 <p>
-  <img src="https://github.com/ystt91/MyOgu/assets/125029629/901947d7-e2e7-412e-93f3-f72082e40a7e">
+  <img width="562" alt="오구오구" src="https://github.com/ystt91/MyOgu/assets/125029629/ea2e86ae-40a0-43f4-8f33-5ea465bf5a20">
 </p>
 <h2>개발 환경</h2>
 <ul>
@@ -28,13 +28,13 @@
 
 <h4> - 회원가입</h4>
 <p>
-  <img width="576" alt="회원가입" src="https://github.com/ystt91/MyOgu/assets/125029629/2152288e-e225-418b-8d6d-cd60979a8899">
+  <img width="562" alt="회원가입" src="https://github.com/ystt91/MyOgu/assets/125029629/ef437087-85ab-46da-baa7-7c8a2d3e70f9">
 </p>
 <h4> - 로그인</h4>
 <p>
-  <img width="576" alt="로그인" src="https://github.com/ystt91/MyOgu/assets/125029629/1f1ff019-5291-4c69-ba37-53a73020f25f">
+  <img width="576" alt="로그인" src="https://github.com/ystt91/MyOgu/assets/125029629/79290594-6bed-4790-a957-5a1fef2fa594">
 </p>
 <h4> - 게시물 상세보기 및 좋아요</h4>
 <p>
-  <img width="576" alt="좋아요" src="https://github.com/ystt91/MyOgu/assets/125029629/60a47171-34b0-4423-871a-4b643c170d06">
+  <img width="576" alt="좋아요" src="https://github.com/ystt91/MyOgu/assets/125029629/2f932a7f-c3b2-484a-a56c-13dff751511a">
 </p>
