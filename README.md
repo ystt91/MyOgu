@@ -6,11 +6,11 @@
   <img width="562" alt="오구오구" src="https://github.com/ystt91/MyOgu/assets/125029629/ea2e86ae-40a0-43f4-8f33-5ea465bf5a20">
 </p>
 <h2>DB</h2>
-<p><img width="556" alt="스크린샷 2023-12-05 125239" src="https://github.com/ystt91/MyOgu/assets/125029629/ec50d6e1-a9ea-4935-a707-db5dc31f208a"></p>
+<p><img width="562" height="400" alt="스크린샷 2023-12-05 125239" src="https://github.com/ystt91/MyOgu/assets/125029629/ec50d6e1-a9ea-4935-a707-db5dc31f208a"></p>
 <h2>협업</h2>
-<p><img width="556" alt="스크린샷 2023-12-05 125252" src="https://github.com/ystt91/MyOgu/assets/125029629/957c1b22-66ef-4d90-b46a-c61c320343cc"></p>
+<p><img width="562" height="400" alt="스크린샷 2023-12-05 125252" src="https://github.com/ystt91/MyOgu/assets/125029629/957c1b22-66ef-4d90-b46a-c61c320343cc"></p>
 <h2>기능 정의</h2>
-<p><img width="556" alt="스크린샷 2023-12-05 125320" src="https://github.com/ystt91/MyOgu/assets/125029629/e47e57d6-315c-4985-9598-16e7b31b331b"></p>
+<p><img width="562" height="400" alt="스크린샷 2023-12-05 125320" src="https://github.com/ystt91/MyOgu/assets/125029629/e47e57d6-315c-4985-9598-16e7b31b331b"></p>
 <h2>개발 환경</h2>
 <ul>
   <li>Java 11</li>
