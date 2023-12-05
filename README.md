@@ -5,15 +5,6 @@
 <p>
   <img width="562" alt="오구오구" src="https://github.com/ystt91/MyOgu/assets/125029629/ea2e86ae-40a0-43f4-8f33-5ea465bf5a20">
 </p>
-<p>
-  <img width="562" alt="오구오구" src="https://github.com/ystt91/MyOgu/assets/125029629/6bba78d1-4bac-4c45-8ccd-9577313d0e62">
-</p>
-<p>
-  <img width="562" alt="오구오구" src="https://github.com/ystt91/MyOgu/assets/125029629/7e30cdc8-f8d3-4f99-a5e0-ab3a74b6b722">
-</p>
-<p>
-  <img width="562" alt="오구오구" src="https://github.com/ystt91/MyOgu/assets/125029629/d826e75d-4213-4be1-90c2-0a9e077cde62">
-</p>
 <h2>개발 환경</h2>
 <ul>
   <li>Java 11</li>
